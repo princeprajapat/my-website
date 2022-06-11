@@ -1,0 +1,21 @@
+/* selector types*/
+/* universal selector*/
+*{
+    background-color: rgb(187, 149, 99);
+
+}
+
+/*element selector*/
+h1{
+    background-color: rgb(3, 21, 15);
+}
+
+/* id selector*/
+#ab{
+    background-color: rgb(255, 0, 123);
+}
+
+/* class selector*/
+.ab{
+    background-color: green;
+}
